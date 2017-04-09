@@ -1,0 +1,24 @@
+{
+  "name": "node-bench",
+  "version": "0.0.1",
+  "description": "A simple http benchmarking utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaunwarman/node-bench.git"
+  },
+  "keywords": [
+    "http",
+    "bench",
+    "request"
+  ],
+  "author": "Shaun Warman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaunwarman/node-bench/issues"
+  },
+  "homepage": "https://github.com/shaunwarman/node-bench#readme"
+}
